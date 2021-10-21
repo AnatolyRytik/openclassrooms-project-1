@@ -49,4 +49,3 @@ https://www.baeldung.com/
 
 https://news.ycombinator.com/
 
-# Étape 3 : créez votre page Web personnelle
